@@ -1,5 +1,4 @@
 DISCLAIMER
 =
 
-
-All related link resource I'm used it, found everywhere on free internet stuff. 
+All of related link resource used, found everywhere on internet free stuff and just for purpose education only! 
