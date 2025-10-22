@@ -28,11 +28,11 @@ https://donelfantastic.github.io/macxstream/dbase/sg/hub/premier2/playlist.m3u8
 https://donelfantastic.github.io/macxstream/dbase/sg/hub/premier3/index.m3u8
 https://donelfantastic.github.io/macxstream/dbase/sg/hub/premier3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/mono_max_1.png" group-title="SPORTS-TH",MONOMAX HD
+#EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/monomax1.png" group-title="SPORTS-TH",MONOMAX HD
 https://donelfantastic.github.io/macxstream/dbase/th/mono/max/index.m3u8
 https://donelfantastic.github.io/macxstream/dbase/th/mono/max/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/mono_max_2.png" group-title="SPORTS-TH",MONOMAX 2 HD
+#EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/monomax2.png" group-title="SPORTS-TH",MONOMAX 2 HD
 https://donelfantastic.github.io/macxstream/dbase/th/mono/max2/index.m3u8
 https://donelfantastic.github.io/macxstream/dbase/th/mono/max2/playlist.m3u8
 
