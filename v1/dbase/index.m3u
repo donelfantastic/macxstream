@@ -1,53 +1,40 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/astro-supersports-1.png" group-title="SPORTS-MY",ASTRO SUPERSPORTS
-https://donelfantastic.github.io/macxstream/dbase/my/astro/supersports/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/my/astro/supersports/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/my/astro/supersports/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/my/astro/supersports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/astro-supersports-2.png" group-title="SPORTS-MY",ASTRO SUPERSPORTS 2
-https://donelfantastic.github.io/macxstream/dbase/my/astro/supersports2/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/my/astro/supersports2/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/my/astro/supersports2/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/my/astro/supersports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/astro-supersports-3.png" group-title="SPORTS-MY",ASTRO SUPERSPORTS 3
-https://donelfantastic.github.io/macxstream/dbase/my/astro/supersports3/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/my/astro/supersports3/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/my/astro/supersports3/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/my/astro/supersports3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/astro-supersports-4.png" group-title="SPORTS-MY",ASTRO SUPERSPORTS 4
-https://donelfantastic.github.io/macxstream/dbase/my/astro/supersports4/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/my/astro/supersports4/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/my/astro/supersports4/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/my/astro/supersports4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/hub_premier_1.png" group-title="SPORTS-SG",HUB PREMIER
-https://donelfantastic.github.io/macxstream/dbase/sg/hub/premier/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/sg/hub/premier/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/sg/hub/premier/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/sg/hub/premier/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/hub_premier_2.png" group-title="SPORTS-SG",HUB PREMIER 2
-https://donelfantastic.github.io/macxstream/dbase/sg/hub/premier2/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/sg/hub/premier2/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/sg/hub/premier2/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/sg/hub/premier2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/hub_premier_3.png" group-title="SPORTS-SG",HUB PREMIER 3
-https://donelfantastic.github.io/macxstream/dbase/sg/hub/premier3/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/sg/hub/premier3/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/sg/hub/premier3/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/sg/hub/premier3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/monomax1.png" group-title="SPORTS-TH",MONOMAX HD
-https://donelfantastic.github.io/macxstream/dbase/th/mono/max/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/th/mono/max/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/th/mono/max/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/th/mono/max/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/monomax2.png" group-title="SPORTS-TH",MONOMAX 2 HD
-https://donelfantastic.github.io/macxstream/dbase/th/mono/max2/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/th/mono/max2/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/th/mono/max2/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/th/mono/max2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/Play_Sports_1.png" group-title="SPORTS-BE",PLAY SPORTS
-https://donelfantastic.github.io/macxstream/dbase/be/play/sports/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/be/play/sports/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/be/play/sports/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/be/play/sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/Play_Sports_2.png" group-title="SPORTS-BE",PLAY SPORTS 2
-https://donelfantastic.github.io/macxstream/dbase/be/play/sports2/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/be/play/sports2/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/be/play/sports2/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/be/play/sports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/Play_Sports_3.png" group-title="SPORTS-BE",PLAY SPORTS 3
-https://donelfantastic.github.io/macxstream/dbase/be/play/sports3/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/be/play/sports3/playlist.m3u8
-
+https://donelfantastic.github.io/macxstream/v1/dbase/be/play/sports3/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/be/play/sports3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/Sky_Sport_Premier_League_Channel_Logo.png" group-title="SPORTS-NZ",SKY SPORTS PREMIER LEAGUE
-https://donelfantastic.github.io/macxstream/dbase/nz/sky/sports8/index.m3u8
-https://donelfantastic.github.io/macxstream/dbase/nz/sky/sports8/playlist.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/nz/sky/sports8/index.m3u8
+https://donelfantastic.github.io/macxstream/v1/dbase/nz/sky/sports8/playlist.m3u8
