@@ -1,8 +1,3 @@
-
-//http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:A7:8D:94&stream=1424311&extension=ts&play_token=opRmCzVYFm
-
-//http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:A7:8D:94&stream=1424318&extension=ts&play_token=wliJHUIflD
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=" group-title="Sports", USA NETWORK
