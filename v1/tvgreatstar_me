@@ -1,131 +1,106 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo=" group-title="Sports", USA NETWORK
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=45466&extension=m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", TNT SPORTS 1
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79486&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", TNT SPORTS 2
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79485&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", TNT SPORTS 3
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79484&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", TNT SPORTS 4
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1002857&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", TNT SPORTS 5
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1004549&extension=m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NEWS
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83446&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS PL
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83447&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS RACING
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83448&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS MIX
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83449&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS MAIN EVENT
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83450&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS FOOTBALL
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83452&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS F1
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83453&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS CRICKET
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83454&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS+
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83455&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS ACTION
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83456&extension=m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", ASTRO SUPERSPORTS
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=918986&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", ASTRO SUPERSPORTS 2
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=918985&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", ASTRO SUPERSPORTS 3
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=918984&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", ASTRO SUPERSPORTS 5
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=918983&extension=m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", NOW PREMIER SPORTS
+#EXTINF:-1 tvg-logo="" group-title="Sports", NOW PREMIER LEAGUE
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1032487&extension=m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports", NOW PREMIER SPORTS 2
+#EXTINF:-1 tvg-logo="" group-title="Sports", NOW PREMIER LEAGUE 2
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1032486&extension=m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports", NOW PREMIER SPORTS 3
+#EXTINF:-1 tvg-logo="" group-title="Sports", NOW PREMIER LEAGUE 3
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1032485&extension=m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", HUB PREMIER SPORTS
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1032529&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", HUB PREMIER SPORTS 2
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1032528&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", HUB PREMIER SPORTS 3
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1032527&extension=m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", BBC ONE
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=30581&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", BBC TWO
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=30580&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", BBC THREE
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=45336&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", BBC FOUR
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=45335&extension=m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", ITV
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=30533&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", ITV 2
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=30532&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", ITV 3
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=30531&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", ITV 4
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=30530&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", ITV BE
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=45333&extension=m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS PL
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=239078&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS FOOTBALL
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=144417&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS FOOTBALL
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=144417&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS MAXIMO
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=833279&extension=m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424318&extension=m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS PL NZ
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS 2 NZ 
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424317&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS 3 NZ
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424316&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS 4 NZ
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424315&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS 5 NZ
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424314&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS 6 NZ
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424313&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS 7 NZ
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424312&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS PREMIER LEAGUE NZ
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424311&extension=m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS 9 NZ
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424310&extension=m3u8
-
-
-
-
