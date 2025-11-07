@@ -97,6 +97,9 @@ https://rawcdn.githack.com/donelfantastic/live/refs/heads/main/v1/dbase/hk/now/p
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/nowsportspremier3.png" group-title="SPORTS-HK",🔵NOW SPORTS PREMIER LEAGUE 3
 https://rawcdn.githack.com/donelfantastic/live/refs/heads/main/v1/dbase/hk/now/premier3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.jctv.co.jp/dazn/img/image.png" group-title="SPORTS-JP",🔵DAZN JP
+https://rawcdn.githack.com/donelfantastic/live/refs/heads/main/v1/dbase/jp/dazn/playlist.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/webiptv/images/astro-supersports-1.png" group-title="SPORTS-MY",🔴ASTRO SUPERSPORTS
 #https://donelfantastic.github.io/live/v1/dbase/my/astro/supersports/index.m3u8
